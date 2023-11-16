@@ -1,0 +1,2 @@
+# Fox-Script
+Free Script
