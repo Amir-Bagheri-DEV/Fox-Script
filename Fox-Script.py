@@ -142,7 +142,7 @@ def sub_domains():
               requests.get(url3)
              
 
-              print(f'[+] {url3}')
+              print(Fore.GREEN+f'[+] {url3}')
 
             except requests.ConnectionError:
                 pass
